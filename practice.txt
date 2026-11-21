@@ -1,0 +1,3 @@
+My Git Practice
+I am learning Git and GitHub.
+Today I created my first practice repository.
