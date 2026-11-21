@@ -1,0 +1,3 @@
+My Branch Practice
+I created my first Git branch.
+I am learning how branches work.
